@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Temitayo
 - 👀 I’m interested in Backend development and AI
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me 
 
