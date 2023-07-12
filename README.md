@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Temitayo
-- 👀 I’m interested in Backend development and AI
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me 
-
-<!---
-Teemitayoo/Teemitayoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
